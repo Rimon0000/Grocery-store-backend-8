@@ -24,7 +24,7 @@ async function run() {
 
         const db = client.db('assignment');
         const collection = db.collection('users');
-        // const suppliesCollection = db.collection('supplies');
+        const flashSalesCollection = db.collection('flashSales');
 
         
 
@@ -82,6 +82,26 @@ async function run() {
 
         // ==============================================================
         // WRITE YOUR CODE HERE
+        //create flash sale
+        app.post("/flash-sale", async(req, res) =>{
+            const newFlashSale = req.body;
+            const result = await flashSalesCollection.insertOne(newFlashSale)
+            res.status(201).json({
+                success: true,
+                message: 'New Flash sale Added successfully!',
+                data: result
+            });
+        })
+
+        //get all flash sale
+        app.get("/flash-sale", async(req, res) =>{
+            const result = await flashSalesCollection.find().toArray()
+            res.status(201).json({
+                success: true,
+                message: 'Flash sale are retrieved successfully!',
+                data: result
+            });
+        })
 
 
             
