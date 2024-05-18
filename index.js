@@ -22,9 +22,10 @@ async function run() {
         await client.connect();
         console.log("Connected to MongoDB");
 
-        const db = client.db('assignment');
+        const db = client.db('Grocery-Store');
         const collection = db.collection('users');
         const flashSalesCollection = db.collection('flashSales');
+        const categoriesCollection = db.collection('categories');
 
         
 
@@ -99,6 +100,27 @@ async function run() {
             res.status(201).json({
                 success: true,
                 message: 'Flash sale are retrieved successfully!',
+                data: result
+            });
+        })
+
+        //create Category
+        app.post("/category", async(req, res) =>{
+            const newCategory = req.body;
+            const result = await categoriesCollection.insertOne(newCategory)
+            res.status(201).json({
+                success: true,
+                message: 'New Category Added successfully!',
+                data: result
+            });
+        })
+
+        //get all flash sale
+        app.get("/categories", async(req, res) =>{
+            const result = await categoriesCollection.find().toArray()
+            res.status(201).json({
+                success: true,
+                message: 'Category are retrieved successfully!',
                 data: result
             });
         })
