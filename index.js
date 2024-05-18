@@ -26,6 +26,7 @@ async function run() {
         const collection = db.collection('users');
         const flashSalesCollection = db.collection('flashSales');
         const categoriesCollection = db.collection('categories');
+        const productsCollection = db.collection('products');
 
         
 
@@ -121,6 +122,27 @@ async function run() {
             res.status(201).json({
                 success: true,
                 message: 'Category are retrieved successfully!',
+                data: result
+            });
+        })
+
+        //create product
+        app.post("/product", async(req, res) =>{
+            const newProduct = req.body;
+            const result = await productsCollection.insertOne(newProduct)
+            res.status(201).json({
+                success: true,
+                message: 'New Product Added successfully!',
+                data: result
+            });
+        })
+
+        //get all products
+        app.get("/products", async(req, res) =>{
+            const result = await productsCollection.find().toArray()
+            res.status(201).json({
+                success: true,
+                message: 'Products are retrieved successfully!',
                 data: result
             });
         })

@@ -1,0 +1,290 @@
+[
+    {
+        "image": "https://i.ibb.co/1ZY2xTC/bottom-view-raw-fish-tomatoes-lemon-slices-oil-bottle-black-pepper-table.jpg",
+        "title": "Rainbow Trout",
+        "category": "Freshwater Fish",
+        "price": 392,
+        "ratings": 4.8,
+        "description": "Indulge in the delicate and flavorful taste of rainbow trout, known for its tender flesh and subtle sweetness. Whether grilled to perfection or baked with aromatic herbs, it promises a delightful culinary experience."
+    },
+    {
+        "image": "https://i.ibb.co/L6ZgTvt/variety-fishes-laying-ice-cubes.jpg",
+        "title": "Catfish",
+        "category": "Freshwater Fish",
+        "price": 128,
+        "ratings": 4.5,
+        "description": "Savor the rich and savory flavor of catfish, with its firm texture and mild taste. Whether fried to a golden crisp or blackened with Cajun spices, it's a Southern classic that never disappoints."
+    },
+    {
+        "image": "https://i.ibb.co/D9HtNXV/close-up-fresh-fish-ice-cubes.jpg",
+        "title": "Perch",
+        "category": "Freshwater Fish",
+        "price": 449,
+        "ratings": 4.7,
+        "description": "Enjoy the delicate and flaky texture of perch, with its mild yet distinctive flavor. Pan-seared with a squeeze of lemon or grilled to perfection, it's a versatile fish that complements a variety of culinary styles."
+    },
+    {
+        "image": "https://i.ibb.co/wM0dDn7/macro-shot-fresh-fish-shop.jpg",
+        "title": "Bass",
+        "category": "Freshwater Fish",
+        "price": 399,
+        "ratings": 4.6,
+        "description": "Discover the robust flavor and meaty texture of bass, perfect for grilling or broiling. Whether seasoned with herbs or marinated in a tangy sauce, it's sure to be a hit at any seafood feast."
+    },
+    {
+        "image": "https://i.ibb.co/k6tRMwL/top-view-delicious-fresh-fish-plate.jpg",
+        "title": "Pike",
+        "category": "Freshwater Fish",
+        "price": 283,
+        "ratings": 4.9,
+        "description": "Experience the delicate flavor and flaky texture of pike, with its mild yet distinctive taste. Whether grilled over an open flame or smoked to perfection, it's a gourmet choice for any seafood lover."
+    },
+    {
+        "image": "https://i.ibb.co/StDYqJ2/carp.jpg",
+        "title": "Carp",
+        "category": "Freshwater Fish",
+        "price": 118,
+        "ratings": 4.3,
+        "description": "Explore the versatility of carp, with its tender flesh and rich flavor. Whether fried until golden brown or baked with savory herbs, it's a budget-friendly option that's perfect for family meals."
+    },
+    {
+        "image": "https://i.ibb.co/jbqNRWQ/top-view-mix-fresh-fish-with-lemon-herbs.jpg",
+        "title": "Salmon",
+        "category": "Saltwater Fish",
+        "price": 229,
+        "ratings": 4.8,
+        "description": "Indulge in the rich and buttery flavor of salmon, known for its flaky texture and omega-3 fatty acids. Whether grilled with a honey glaze or baked with herbs, it's a versatile fish that's sure to please."
+    },
+    {
+        "image": "https://i.ibb.co/HFvXBvT/delicious-white-tuna-recipe-still-life-top-view.jpg",
+        "title": "Tuna",
+        "category": "Saltwater Fish",
+        "price": 249,
+        "ratings": 4.7,
+        "description": "Enjoy the meaty texture and bold flavor of tuna, perfect for searing or sushi. Whether grilled with a sesame crust or served raw as sashimi, it's a protein-packed option for any seafood lover."
+    },
+    {
+        "image": "https://i.ibb.co/4FjTyCL/top-view-fresh-fish-ice-cubes-with-herbs.jpg",
+        "title": "Swordfish",
+        "category": "Saltwater Fish",
+        "price": 262.49,
+        "ratings": 4.9,
+        "description": "Savor the firm and meaty texture of swordfish, with its mild yet distinct flavor. Whether grilled on skewers or baked with citrus, it's a hearty fish that's perfect for summertime barbecues."
+    },
+    {
+        "image": "https://i.ibb.co/RBHHt8V/david-clode-9-Fv-TOCfvt-w-unsplash.jpg",
+        "title": "Mahi Mahi",
+        "category": "Saltwater Fish",
+        "price": 214.99,
+        "ratings": 4.6,
+        "description": "Discover the sweet and tender flavor of mahi mahi, with its flaky white flesh and mild taste. Whether pan-seared with a tropical salsa or grilled with a chili lime marinade, it's a delicious choice for seafood enthusiasts."
+    },
+    {
+        "image": "https://i.ibb.co/vhpZY8Y/harris-vo-eg-Sqt-Hrx-KDQ-unsplash.jpg",
+        "title": "Cod",
+        "category": "Saltwater Fish",
+        "price": 193.99,
+        "ratings": 4.5,
+        "description": "Enjoy the mild and flaky texture of cod, with its clean and delicate flavor. Whether battered and fried or baked with lemon and herbs, it's a versatile fish that's perfect for classic fish and chips or elegant seafood dinners."
+    },
+    {
+        "image": "https://i.ibb.co/Jy0TMtS/david-clode-i-Lw-QIb-Wxv-s-unsplash.jpg",
+        "title": "Halibut",
+        "category": "Saltwater Fish",
+        "price": 280.99,
+        "ratings": 4.8,
+        "description": "Experience the buttery and tender texture of halibut, with its sweet and mild flavor. Whether grilled with a garlic butter sauce or pan-seared with capers and lemon, it's a gourmet option that's sure to impress."
+    },
+    {
+        "image": "https://i.ibb.co/b60tVHJ/cotxapi-com-L37-Cq-V984-B0-unsplash.jpg",
+        "title": "Shrimp",
+        "category": "Shellfish",
+        "price": 299,
+        "ratings": 4.8,
+        "description": "Delight in the succulent and sweet taste of shrimp, with its tender texture and briny flavor. Whether sautéed with garlic and butter or grilled on skewers, it's a versatile seafood option that's perfect for appetizers or main dishes."
+    },
+    {
+        "image": "https://i.ibb.co/GMQhSzj/novila-misastra-1-ATi9g26-MCg-unsplash.jpg",
+        "title": "Lobster",
+        "category": "Shellfish",
+        "price": 499,
+        "ratings": 4.9,
+        "description": "Indulge in the luxurious and buttery flavor of lobster, with its tender meat and delicate texture. Whether steamed with drawn butter or grilled with herbs, it's a gourmet option that's perfect for special occasions and celebrations."
+    },
+    {
+        "image": "https://i.ibb.co/fn5nZyN/micheile-henderson-v-E5x-Ngwf-AAw-unsplash.jpg",
+        "title": "Crab",
+        "category": "Shellfish",
+        "price": 394,
+        "ratings": 4.7,
+        "description": "Savor the sweet and succulent taste of crab meat, with its delicate texture and briny flavor. Whether cracked and dipped in butter or used to create indulgent crab cakes, it's a seafood delicacy that's sure to impress."
+    },
+    {
+        "image": "https://example.com/images/shellfish_4.jpg",
+        "title": "Mussels",
+        "category": "Shellfish",
+        "price": 17.99,
+        "ratings": 4.6,
+        "description": "Enjoy the rich and briny flavor of mussels, with their tender meat and savory broth. Whether steamed with white wine and garlic or simmered in a tomato-based sauce, they're a classic addition to seafood soups, pastas, and stews."
+    },
+    {
+        "image": "https://i.ibb.co/tYdDQ0t/camila-igisk-y-FU8q-IDo9s4-unsplash.jpg",
+        "title": "Oysters",
+        "category": "Shellfish",
+        "price": 248,
+        "ratings": 4.5,
+        "description": "Experience the fresh and briny taste of oysters, with their delicate texture and subtle sweetness. Whether served raw on the half shell or grilled with a mignonette sauce, they're a luxurious indulgence that's perfect for raw bars and seafood platters."
+    },
+    {
+        "image": "https://i.ibb.co/DRXKr6f/patrick-perkins-zo-Gq-ZXsa-G8-unsplash.jpg",
+        "title": "Scallops",
+        "category": "Shellfish",
+        "price": 345,
+        "ratings": 4.8,
+        "description": "Discover the tender and buttery texture of scallops, with their sweet and delicate flavor. Whether seared to perfection or grilled on skewers, they're a gourmet addition to pasta dishes, salads, and seafood entrées."
+    },
+    {
+        "image": "https://i.ibb.co/4NQcpmw/sebastian-pena-lambarri-Abj-z-Uko6-Mg-unsplash.jpg",
+        "title": "Crayfish",
+        "category": "Crustaceans",
+        "price": 198,
+        "ratings": 4.6,
+        "description": "Indulge in the sweet and succulent meat of crayfish, perfect for seafood boils or pasta dishes. Crayfish, also known as crawfish or freshwater lobsters, are prized for their tender texture and delicate flavor. Whether boiled in a Cajun spice mix or simmered in a creamy bisque, they're a Southern delicacy that's sure to please."
+    },
+    {
+        "image": "https://i.ibb.co/VVj2f5f/david-clode-CPIx-SGo-AKOQ-unsplash.jpg",
+        "title": "King Crab Legs",
+        "category": "Crustaceans",
+        "price": 590,
+        "ratings": 4.9,
+        "description": "Treat yourself to the sweet and succulent meat of king crab legs, perfect for steaming or grilling. King crab legs are prized for their large, tender segments of meat and rich, briny flavor. Whether dipped in melted butter or served alongside garlic mashed potatoes, they're a luxurious indulgence that's perfect for special occasions."
+    },
+    {
+        "image": "https://i.ibb.co/z794QkX/david-clode-d-POy-Rdb-uq0-unsplash.jpg",
+        "title": "Langoustine",
+        "category": "Crustaceans",
+        "price": 347,
+        "ratings": 4.7,
+        "description": "Savor the delicate and flavorful meat of langoustine, great for pasta dishes or seafood stews. Langoustines, also known as Dublin Bay prawns, are prized for their sweet and succulent flesh. Whether grilled with garlic and lemon or added to a hearty bouillabaisse, they're a gourmet addition to any seafood lover's menu."
+    },
+    {
+        "image": "https://i.ibb.co/tq0qdvC/vlad-tchompalov-W2x-Fpw-MCWa-I-unsplash.jpg",
+        "title": "Rock Lobster",
+        "category": "Crustaceans",
+        "price": 493,
+        "ratings": 4.8,
+        "description": "Enjoy the tender and juicy meat of rock lobster tails, perfect for grilling or broiling. Rock lobster tails, also known as spiny lobsters, are prized for their firm texture and sweet, delicate flavor. Whether brushed with garlic butter or served with a spicy mango salsa, they're a gourmet treat that's sure to impress."
+    },
+    {
+        "image": "https://i.ibb.co/Jcdk2rK/david-clode-l-WY2x-GMYbt8-unsplash.jpg",
+        "title": "Snow Crab Clusters",
+        "category": "Crustaceans",
+        "price": 389,
+        "ratings": 4.6,
+        "description": "Delight in the sweet and delicate meat of snow crab clusters, great for seafood boils or salads. Snow crab clusters, also known as queen crab, are prized for their sweet, succulent meat and delicate flavor. Whether cracked and dipped in melted butter or tossed in a refreshing seafood salad, they're a versatile option for any seafood enthusiast."
+    },
+    {
+        "image": "https://i.ibb.co/jkDfZmK/tavis-beck-g-Rr64-OCKy0-unsplash.jpg",
+        "title": "Soft Shell Crab",
+        "category": "Crustaceans",
+        "price": 294,
+        "ratings": 4.7,
+        "description": "Experience the tender and flavorful meat of soft shell crab, ideal for frying or grilling. Soft shell crabs, harvested during their molting stage, are prized for their tender texture and sweet, briny flavor. Whether battered and fried to golden perfection or grilled with Cajun spices, they're a culinary delight that's perfect for sandwiches or salads."
+    },
+    {
+        "image": "https://i.ibb.co/CvZr2vz/cofish-aquarium-AK8t21rg8uw-unsplash.jpg",
+        "title": "Smoked Salmon",
+        "category": "Smoked Fish",
+        "price": 786,
+        "ratings": 4.8,
+        "description": "Indulge in the rich and smoky flavor of smoked salmon, perfect for bagels or appetizers. Smoked salmon, also known as lox, is prized for its tender texture and savory taste. Whether served with cream cheese on a toasted bagel or added to a gourmet charcuterie board, it's a versatile delicacy that's sure to impress."
+    },
+    {
+        "image": "https://i.ibb.co/5BKfsZj/michael-rodock-Y-071-W-6-WUo-unsplash.jpg",
+        "title": "Smoked Trout",
+        "category": "Smoked Fish",
+        "price": 248,
+        "ratings": 4.7,
+        "description": "Savor the delicate and smoky flavor of smoked trout, perfect for salads or pasta dishes. Smoked trout is prized for its tender texture and mild, earthy taste. Whether flaked into a refreshing salad or tossed with creamy alfredo sauce, it's a gourmet addition to any meal."
+    },
+    {
+        "image": "https://i.ibb.co/xX8xkKG/david-clode-k6y-Mfsmm-Gq0-unsplash.jpg",
+        "title": "Smoked Mackerel",
+        "category": "Smoked Fish",
+        "price": 384,
+        "ratings": 4.6,
+        "description": "Enjoy the bold and smoky flavor of smoked mackerel, perfect for sandwiches or appetizers. Smoked mackerel is prized for its rich, oily flesh and robust taste. Whether served on crusty bread with horseradish sauce or added to a Mediterranean-style salad, it's a delicious option for seafood lovers."
+    },
+    {
+        "image": "https://i.ibb.co/nMggH4T/kiril-aglichev-1-DRTED1-Xg0-unsplash.jpg",
+        "title": "Smoked Haddock",
+        "category": "Smoked Fish",
+        "price": 799,
+        "ratings": 4.9,
+        "description": "Experience the delicate and smoky flavor of smoked haddock, perfect for chowders or fish pies. Smoked haddock is prized for its flaky texture and mild, sweet taste. Whether added to creamy seafood chowder or baked in a hearty fish pie, it's a comforting choice for any seafood enthusiast."
+    },
+    {
+        "image": "https://i.ibb.co/v4qZdM6/david-clode-vh5-Ny-t-Id-L4-unsplash.jpg",
+        "title": "Smoked Whitefish",
+        "category": "Smoked Fish",
+        "price": 289,
+        "ratings": 4.5,
+        "description": "Delight in the smoky and delicate flavor of smoked whitefish, perfect for bagels or salads. Smoked whitefish is prized for its tender texture and mild, sweet taste. Whether spread on a toasted bagel with cream cheese or tossed with fresh greens in a citrus vinaigrette, it's a versatile option for any meal."
+    },
+    {
+        "image": "https://i.ibb.co/vmMRjHD/david-clode-HCISAEBf-Dg-I-unsplash.jpg",
+        "title": "Smoked Sardines",
+        "category": "Smoked Fish",
+        "price": 843,
+        "ratings": 4.4,
+        "description": "Enjoy the bold and briny flavor of smoked sardines, perfect for tapas or pizza toppings. Smoked sardines are prized for their rich, oily flesh and intense taste. Whether served on crostini with roasted red peppers or scattered atop a homemade pizza, they're a flavorful addition to any dish."
+    },
+        {
+        "image": "https://i.ibb.co/BsTbgs5/beth-macdonald-5-N3dbq-Lsc-Dw-unsplash.jpg",
+        "title": "Grilled Shrimp Skewers",
+        "category": "Seafood",
+        "price": 400,
+        "ratings": 4.8,
+        "description": "Savor the delightful taste of grilled shrimp skewers, seasoned to perfection and char-grilled for a smoky flavor. Perfect for barbecues or as a main dish, these skewers are served with a side of tangy dipping sauce and fresh lemon wedges to enhance their flavor."
+    },
+    {
+        "image": "https://i.ibb.co/tXHTBcJ/louis-hansel-j-Zj-IAjz-AHE-unsplash.jpg",
+        "title": "Garlic Butter Lobster Tails",
+        "category": "Seafood",
+        "price": 550,
+        "ratings": 4.9,
+        "description": "Indulge in the rich, succulent taste of garlic butter lobster tails, broiled to perfection and basted with a savory garlic butter sauce. Ideal for special occasions or romantic dinners, these lobster tails are served with a side of steamed vegetables and rice pilaf."
+    },
+    {
+        "image": "https://i.ibb.co/pRydTV7/markus-winkler-Gcj-Cmh-Wslr-M-unsplash.jpg",
+        "title": "Seafood Paella",
+        "category": "Seafood",
+        "price": 450,
+        "ratings": 4.7,
+        "description": "Experience the vibrant flavors of our seafood paella, a Spanish classic made with saffron-infused rice, mussels, shrimp, and clams. This dish is a feast for both the eyes and the palate, bringing a touch of Mediterranean sunshine to your table."
+    },
+    {
+        "image": "https://i.ibb.co/m4Jwnhp/anima-visual-pn7d-Ik2ki-Yw-unsplash.jpg",
+        "title": "Crab Cake Platter",
+        "category": "Seafood",
+        "price": 350,
+        "ratings": 4.6,
+        "description": "Enjoy the crisp, golden goodness of our crab cake platter, featuring two generously sized crab cakes made from fresh, succulent crab meat. Served with a zesty remoulade sauce and a side of coleslaw, this platter is a seafood lover's delight."
+    },
+    {
+        "image": "https://i.ibb.co/GMLLF6P/anastasiia-rusaeva-Dn-Bhidfyi-H8-unsplash.jpg",
+        "title": "Pan-Seared Scallops",
+        "category": "Seafood",
+        "price": 500,
+        "ratings": 4.8,
+        "description": "Treat yourself to the delicate flavor and tender texture of pan-seared scallops, lightly seasoned and cooked to a golden brown. Paired with a creamy risotto and garnished with fresh herbs, this dish is both elegant and satisfying."
+    },
+    {
+        "image": "https://i.ibb.co/BKvGxT6/david-clode-u5-K46-Puk-KAo-unsplash.jpg",
+        "title": "Cedar Plank Salmon",
+        "category": "Seafood",
+        "price": 600,
+        "ratings": 4.7,
+        "description": "Delight in the smoky and aromatic taste of cedar plank salmon, grilled to perfection on a cedar plank for a unique flavor. Served with a side of grilled asparagus and roasted potatoes, this dish is a perfect blend of rustic charm and gourmet quality."
+    } 
+]
