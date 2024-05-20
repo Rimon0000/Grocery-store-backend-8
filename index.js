@@ -137,9 +137,22 @@ async function run() {
             });
         })
 
-        //get all products
+        //get all products for popular products
         app.get("/products", async(req, res) =>{
-            const result = await productsCollection.find().toArray()
+            const result = await productsCollection.find().sort({ ratings: -1 }).toArray();
+            res.status(201).json({
+                success: true,
+                message: 'Products are retrieved successfully!',
+                data: result
+            });
+        })
+          
+          
+
+        //get all products
+        app.get("/fish", async(req, res) =>{
+            console.log("hitting for all product");
+            const result = await productsCollection.find().toArray();
             res.status(201).json({
                 success: true,
                 message: 'Products are retrieved successfully!',
@@ -147,9 +160,23 @@ async function run() {
             });
         })
 
-
+        // //filter by category
+        app.get('/fish/:category', async (req, res) => {
+              const category = req.params.category;
+              let query = {};
             
+              if (category) {
+                query = { category: new RegExp(`^${category}$`, 'i') }; // Case-insensitive match
+              }
             
+              const result = await productsCollection.find(query).toArray();
+              res.status(200).json({
+                success: true,
+                message: 'Products are retrieved successfully!',
+                data: result
+              });
+          });
+        
             
 
         // ==============================================================
