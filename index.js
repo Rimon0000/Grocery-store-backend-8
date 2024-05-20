@@ -176,6 +176,19 @@ async function run() {
                 data: result
               });
           });
+
+        //get single product
+        app.get("/single-fish/:id", async (req, res) => {
+            const id = req.params.id;
+            const query = { _id: new ObjectId(id) };
+            const result = await productsCollection.findOne(query);
+            res.status(201).json({
+                success: true,
+                message: 'Product is retrieved successfully!',
+                data: result
+            });
+        });
+
         
             
 
