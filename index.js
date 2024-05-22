@@ -151,7 +151,6 @@ async function run() {
 
         //get all products
         app.get("/fish", async(req, res) =>{
-            console.log("hitting for all product");
             const result = await productsCollection.find().toArray();
             res.status(201).json({
                 success: true,
